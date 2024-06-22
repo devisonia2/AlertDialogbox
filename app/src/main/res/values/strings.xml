@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alert Dialog box</string>
+    <string name="enteranynumber">Enter Any Number</string>
+    <string name="performcalculations">Perform Calculations</string>
+    <string name="Perform">Perform Calculations</string>
+    <string name="enternumber">Enter Number</string>
+</resources>
